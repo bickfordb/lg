@@ -1,4 +1,4 @@
-(defproject lg "1.0.0"
+(defproject lg "1.0.1"
   :description "Utility logging functions to interact with slf4j"
   :url "http://github.com/bickfordb/lg"
   :license {:name "GPL V3"
