@@ -4,7 +4,7 @@ Clojure utility interface to slf4j
 
 ## Usage
 
-Add `[lg "1.0.0"]` to the dependencies section of your "project.clj"
+Add `[lg "1.0.1"]` to the dependencies section of your "project.clj"
 
 ```clojure
 
